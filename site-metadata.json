@@ -16,7 +16,8 @@
                 "url": "/elements/"
             },
             {
-                "url": "/ipsum/"
+                "url": "/ipsum/",
+                "label": "Dark"
             }
         ]
     },
