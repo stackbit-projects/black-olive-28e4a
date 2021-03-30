@@ -1,5 +1,5 @@
 ---
-title: 'Just a Generic '
+title: 'Just a Generic Dark Web '
 subtitle: Just a generic subtitle for the page
 seo:
   title: Just a Generic Page
