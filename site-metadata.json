@@ -44,7 +44,8 @@
             },
             {
                 "label": "DonQsec",
-                "new_window": true
+                "new_window": true,
+                "url": "https://github.com/DonQsec"
             },
             {
                 "label": "LinkedIn",
